@@ -1,0 +1,1 @@
+this is quite literally just a basic html and css page designed to practice html and css skills learned through self teaching and TOP.
