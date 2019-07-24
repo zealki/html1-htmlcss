@@ -4,4 +4,26 @@
 }
 h5 {
     font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px red;
+}
+body {
+    font-size: 14px;
+    color: forestgreen;
+    font-family: 'Inconsolata', monospace;
+    background: lightskyblue url(https://cdn.shopify.com/s/files/1/1725/6075/products/2018-07-24_09_18_19-ABDL_Printed_Diapers___Lil_Monsters_large.jpg?v=1532438759) no-repeat top left ;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+ul {
+    border: 10px rgb(9, 91, 214);
+    background-color: cadetblue;
+    padding: 10px;
+}
+img { 
+    border: 1px dotted red;
 }
